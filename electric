@@ -1,0 +1,626 @@
+
+<!doctype html>
+<html lang="en-US">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+    <link href="https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+
+    <!-- Global site tag (gtag.js) - Google Analytics
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-9JJ21HW3CW"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-9JJ21HW3CW');
+        </script>
+    -->
+
+    <!-- Bizible -->
+    <script type="text/javascript" src="//cdn.bizible.com/scripts/bizible.js" async></script>
+
+
+    <!-- Cookie Script -->
+    <script type="text/javascript" charset="UTF-8" src="//geo.cookie-script.com/s/236da93bedc38fa6ce4a0a2c6d237231.js?region=eu" defer></script>
+    
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-T2D7VM8');</script>
+
+
+    <!-- Start Partner Stack -->
+    <script type="text/javascript" defer>(function() {var gs = document.createElement('script');gs.src = 'https://js.partnerstack.com/v1/';gs.type = 'text/javascript';gs.async = 'true';gs.onload = gs.onreadystatechange = function() {var rs = this.readyState;if (rs && rs != 'complete' && rs != 'loaded') return;try {growsumo._initialize('pk_7Cae09jaHfadGoPLaGrjfkuCpCUClcFC');if (typeof(growsumoInit) === 'function') {growsumoInit();}} catch (e) {}};var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(gs, s);})();</script>
+    <!-- End Partner Stack -->
+
+    <!-- Audio Eye -->
+    <script type="text/javascript" defer>!function(){var b=function(){window.__AudioEyeSiteHash = "0f29e06b35fcc8ee106a8cc8da08f389"; var a=document.createElement("script");a.src="https://wsmcdn.audioeye.com/aem.js";a.type="text/javascript";a.setAttribute("async","");document.getElementsByTagName("body")[0].appendChild(a)};"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",b):window.attachEvent&&window.attachEvent("onload",b):b()}();</script>
+
+    
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v20.8 (Yoast SEO v20.8) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>IT Support Resources: IT Webinars, Case Studies, &amp; More</title>
+	<meta name="description" content="Electric offers resources on everything IT; from the art of onboarding to getting started with MDM. Check out our case studies, eBooks, and webinars now." />
+	<link rel="canonical" href="https://www.electric.ai/resources" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Resources Archives" />
+	<meta property="og:description" content="Electric offers resources on everything IT; from the art of onboarding to getting started with MDM. Check out our case studies, eBooks, and webinars now." />
+	<meta property="og:url" content="https://www.electric.ai/resources" />
+	<meta property="og:site_name" content="Electric" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@electric_ai" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://www.electric.ai/resources","url":"https://www.electric.ai/resources","name":"IT Support Resources: IT Webinars, Case Studies, & More","isPartOf":{"@id":"https://www.electric.ai/#website"},"description":"Electric offers resources on everything IT; from the art of onboarding to getting started with MDM. Check out our case studies, eBooks, and webinars now.","breadcrumb":{"@id":"https://www.electric.ai/resources#breadcrumb"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://www.electric.ai/resources#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.electric.ai/"},{"@type":"ListItem","position":2,"name":"Resources"}]},{"@type":"WebSite","@id":"https://www.electric.ai/#website","url":"https://www.electric.ai/","name":"Electric","description":"IT Support for Businesses | IT Support Management","publisher":{"@id":"https://www.electric.ai/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.electric.ai/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.electric.ai/#organization","name":"Electric.ai","url":"https://www.electric.ai/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.electric.ai/#/schema/logo/image/","url":"https://www.electric.ai/wp-content/uploads/2021/11/cropped-electric_icon_red.png","contentUrl":"https://www.electric.ai/wp-content/uploads/2021/11/cropped-electric_icon_red.png","width":512,"height":512,"caption":"Electric.ai"},"image":{"@id":"https://www.electric.ai/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/ElectricAI","https://twitter.com/electric_ai","https://www.instagram.com/electric_ai/","https://www.linkedin.com/company/electric-ai/"]}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.electric.ai' />
+<link rel="alternate" type="application/rss+xml" title="Electric &raquo; Resources Category Feed" href="https://www.electric.ai/resources/feed" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.electric.ai\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://www.electric.ai/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://www.electric.ai/wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='bootstrap-css-css' href='https://www.electric.ai/wp-content/themes/electricai/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='electricai-style-css' href='https://www.electric.ai/wp-content/themes/electricai/style.css?ver=4.9.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.electric.ai/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.electric.ai/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='loadmore_button_ajax-js-extra'>
+/* <![CDATA[ */
+var loadmore_button_params = {"ajaxurl":"https:\/\/www.electric.ai\/wp-admin\/admin-ajax.php","posts":"{\"category_name\":\"resources\",\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"\",\"pagename\":\"\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"tag\":\"\",\"cat\":42,\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"search_columns\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"update_menu_item_cache\":false,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":9,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}","current_page":"1","max_page":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.electric.ai/wp-content/themes/electricai/js/ajax-loadmore.js?ver=6.2.2' id='loadmore_button_ajax-js'></script>
+<link rel="https://api.w.org/" href="https://www.electric.ai/wp-json/" /><link rel="alternate" type="application/json" href="https://www.electric.ai/wp-json/wp/v2/categories/42" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.electric.ai/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.electric.ai/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.2" />
+<link rel="icon" href="https://www.electric.ai/wp-content/uploads/2021/11/cropped-electric_icon_red-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.electric.ai/wp-content/uploads/2021/11/cropped-electric_icon_red-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.electric.ai/wp-content/uploads/2021/11/cropped-electric_icon_red-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.electric.ai/wp-content/uploads/2021/11/cropped-electric_icon_red-270x270.png" />
+</head>
+
+<body class="archive category category-resources category-42">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><script>
+jQuery(document).ready(function() {
+ if(jQuery(window).width() <= 768) {
+     jQuery(".nav-link.dropdown-toggle").attr("data-bs-toggle", "dropdown");
+ }
+});
+</script>
+
+<nav class="navbar navbar-expand-md fixed-top" id="header-nav" style="background:black;">
+   <div class="container">
+
+      <a class="navbar-brand me-lg-5 d-inline-block d-lg-inline-block" href="/">
+         <img src="/wp-content/themes/electricai/static/Electric-logo.svg" alt="Electric Logo" class="d-inline-block d-md-none d-lg-inline-block">
+         <img src="/wp-content/themes/electricai/static/Electric-logo-sm.svg" alt="Electric Logo" class="d-none d-md-inline-block d-lg-none">
+      </a>
+
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+         <span class="navbar-toggler-icon"><i class="bi bi-list"></i></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+         <ul class="navbar-nav navbar-nav-scroll gap-0 gap-lg-3 me-auto">
+
+            <!-- Product Tab -->
+            <li class="nav-item dropdown position-static">
+
+               <a class="nav-link dropdown-toggle" id="megaMenuDropdown" href="/product" role="button" aria-haspopup="true" aria-expanded="false">
+                  Product
+               </a>
+
+               <div class="dropdown-menu w-100 mt-0 pt-0" aria-labelledby="megaMenuDropdown">
+                  <div class="nav-border"></div>
+                  <div class="container my-4">
+                     <div class="row">
+                        <div class="col-12 col-md-4 mb-4 mb-md-0">
+                           <ul class="nav flex-column">
+                              <li class="nav-header nav-link"><a href="/product">Platform</a></li>
+                              <li class="nav-link"><a href="/product/it-management-dashboard">View Org Wide IT Health</a></li>
+                              <li class="nav-link"><a href="/product/security-policy-management">Track & Manage Security Policies</a></li>
+                              <li class="nav-link"><a href="/product/device-management-solutions">Manage Devices</a></li>
+                              <li class="nav-link"><a href="/product/application-management">Manage Application Support</a></li>
+                              <li class="nav-link"><a href="/product/employee-onboarding-solution">Onboard Employees</a></li>
+                              <li class="nav-link"><a href="/product/technology-partners">Tech Partners & Integrations</a></li>
+                              
+                           </ul>
+                        </div>
+                        <div class="col-12 col-md-4 mb-4 mb-md-0">
+                           <ul class="nav flex-column">
+                              <li class="nav-header nav-link"><a href="/product/real-time-IT-support">Real-Time Support</a></li>
+                              <!--<li class="nav-link"><a href="/product/slack-electric">Slack Experience</a></li>
+                              <li class="nav-link"><a href="/product/microsoft-teams">Microsoft Teams Experience</a></li>-->
+                              <li class="nav-link"><a href="/product/enhanced-it-support">Enhanced Support</a></li> 
+                           </ul>
+                        </div>
+                        <div class="col-12 col-md-4">
+                           <ul class="nav flex-column">
+                              <li class="nav-header nav-link"><a href="/product/services">Services</a></li>
+                              <li class="nav-link"><a href="/product/device-provisioning-procurement">Procurement & Provisioning</a></li>
+                              <li class="nav-link"><a href="/product/it-projects">Strategic IT Project Management</a></li>
+                              <li class="nav-link"><a href="/product/it-security-enhanced">Enhanced Security</a></li>
+                              <li class="nav-link"><a href="/product/business-continuity-disaster-recovery">Business Continuity & Disaster Recovery</a></li>
+                              <li class="nav-link"><a href="/product/cloud-license-management">Cloud License Management</a></li>
+                              <li class="nav-link"><a href="/product/identity-management-solution">Secure & Flexible Identity Management</a></li>
+                              
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+            </li>
+
+            <!-- Solutions Tab -->
+            <li class="nav-item dropdown position-static">
+
+               <a class="nav-link dropdown-toggle" href="/solutions" id="megaMenuDropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                  Solutions
+               </a>
+
+               <div class="dropdown-menu w-100 mt-0 pt-0" aria-labelledby="megaMenuDropdown">
+                  <div class="nav-border"></div>
+                  <div class="container my-4">
+                     <div class="row">
+                        <div class="col-12 col-md-3 mb-4 mb-md-0">
+                           <ul class="nav flex-column">
+                              <li class="nav-header nav-link">
+                                 <a href="/solutions">IT Situation</a>
+                              </li>
+                              <li class="nav-link">
+                                 <a href="/solutions/electric-it">Don't have an IT provider?</a><br>
+                                 <span class="fst-italic fs-7">Get back to the job you were hired to do</span>
+                              </li>
+                              <li class="nav-link">
+                                 <a href="/solutions/managed-it-services">Managing your own IT?</a><br>
+                                 <span class="fst-italic fs-7">We want to make you an IT superhero</span>
+                              </li>
+                              <li class="nav-link">
+                                 <a href="/solutions/msp-alternative">Outsourcing your IT?</a><br>
+                                 <span class="fst-italic fs-7">Upgrade your outsourced IT for better service</span>
+                              </li>
+                           </ul>
+                        </div>
+                        <div class="col-12 col-md-3 mb-4 mb-md-0">
+                           <ul class="nav flex-column">
+                              <li class="nav-header nav-link">Use Electric to</li>
+                              <li class="nav-link"><a href="/solutions/service-desk">Pass off day-to-day IT tasks</a></li>
+                              <li class="nav-link"><a href="/solutions/it-compliance">Become compliant</a></li>
+                              <li class="nav-link"><a href="/solutions/security-guidance-breach-prevention">Security guidance & breach prevention</a></li> 
+                              <li class="nav-link"><a href="/solutions/expert-IT-advice">Expert guidance on IT approach</a></li> 
+                           </ul>
+                        </div>
+                        <div class="col-12 col-md-3 mb-4 mb-md-0">
+                           <ul class="nav flex-column">
+                              <li class="nav-header nav-link"><a href="/it-solutions-by-role">Electric for Teams</li>
+                              <li class="nav-link"><a href="/solutions/operations">Operations</a></li>
+                              <li class="nav-link"><a href="/solutions/it-hr">Human Resources/People</a></li>
+                              <li class="nav-link"><a href="/solutions/it-teams">Information Technology</a></li> 
+                           </ul>
+                        </div>
+                        <div class="col-12 col-md-3">
+                           <ul class="nav flex-column">
+                              <li class="nav-header nav-link">Electric for Industries</li>
+                              <li class="nav-link"><a href="/solutions/marketing-and-advertising">Marketing/Advertising</a></li>
+                              <li class="nav-link"><a href="/solutions/technology">Technology</a></li>
+                              <li class="nav-link"><a href="/solutions/hospitality">Hospitality</a></li>
+                              <li class="nav-link"><a href="/solutions/staffing-and-recruiting">Staffing & Recruiting</a></li>
+                              <li class="nav-link"><a href="/solutions/healthcare">Healthcare</a></li>
+                              <li class="nav-link"><a href="/solutions/finance">Finance</a></li>
+                              <li class="nav-link"><a href="/solutions/education">Education</a></li> 
+                              <li class="nav-link"><a href="/solutions/nonprofit">Nonprofit</a></li> 
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+            </li>
+
+            <!-- Why Electric? Tab -->
+            <li class="nav-item dropdown position-static">
+
+               <a class="nav-link dropdown-toggle" href="/how-we-do-it" id="megaMenuDropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                  Why Electric?
+               </a>
+
+               <div class="dropdown-menu w-100 mt-0 pt-0" aria-labelledby="megaMenuDropdown">
+                  <div class="nav-border"></div>
+                  <div class="container my-4">
+                     <div class="row">
+                        <div class="col-12 d-md-none">
+                           <ul class="nav">
+                              <li class="nav-header nav-link d-flex flex-column">
+                                 <span class="mb-3"><a href="/how-we-do-it">Why Electric?</a></span>
+                              </li>
+                           </ul>
+                        </div>
+                        <div class="col-12 col-md-3 mb-4 mb-md-0">
+                           <ul class="nav">
+                              <li class="nav-header nav-link d-flex flex-column">
+                                 <span class="mb-3"><a href="/total-economic-impact-report">ROI Report</a></span>
+                                 <span>Electric commissioned Forrester Consulting to conduct a Total Economic Impact (TEI) study to examine the potential return on investment (ROI).</span>
+                                 <a class="nav-cta mt-3" href="/total-economic-impact-report">Learn More <i class="bi bi-arrow-right"></i></a>
+                              </li>
+                           </ul>
+                        </div>
+                        <div class="col-12 col-md-3 mb-4 mb-md-0">
+                           <ul class="nav">
+                              <li class="nav-header nav-link d-flex flex-column">
+                                 <span class="mb-3"><a href="/it-cost-calculator" target="_blank">Cost Calculator</a></span>
+                                 <span>How much is IT truly costing your business? Use our free IT cost calculator to find out today.</span>
+                                 <a class="nav-cta mt-3" href="/it-cost-calculator" target="_blank">See Savings <i class="bi bi-arrow-right"></i></a>
+                              </li>
+                           </ul>
+                        </div>
+                        <div class="col-12 col-md-5">
+                           <ul class="nav">
+                              <li class="nav-link d-flex flex-column">
+                                 <span class="nav-header"><a href="/case-studies">Customer Success Stories</a></span>
+                                 <a href="/case-studies/genui-case-study" class="bg-dark rounded d-flex flex-column mt-3 overflow-hidden">
+                                    <div class="d-flex flex-row">
+                                       <img src="/wp-content/themes/electricai/static/Laurie-nav.webp" class="col-3 mt-auto">
+                                       <div class="d-flex flex-column px-3 my-auto">
+                                          <span class="nav-header">Why GenUI Chose Electric to Power Their IT</span>
+                                          <span>GenUI leans on Electric to get back 30% of their operations team's time.</span>
+                                       </div>
+                                    </div>
+                                 </a>
+                              </li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+            </li>
+
+            <!-- Resources Tab -->
+            <li class="nav-item dropdown position-static">
+
+               <a class="nav-link dropdown-toggle" href="/resources" id="megaMenuDropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                  Resources
+               </a>
+
+               <div class="dropdown-menu w-100 mt-0 pt-0" aria-labelledby="megaMenuDropdown">
+                  <div class="nav-border"></div>
+                  <div class="container my-4">
+                     <div class="row">
+                        <div class="col-12 col-md-3 mb-4 mb-md-0">
+                           <ul class="nav flex-column">
+                              <li class="nav-link nav-header">
+                                 <a href="/resources">Content Hub</a><br>
+                              </li>
+                              <li class="nav-link">
+                                 <a href="/resources?type=blog">Blog Articles</a><br>
+                              </li>
+                              <li class="nav-link">
+                                 <a href="/resources?type=casestudies">Case Studies</a><br>
+                              </li>
+                              <li class="nav-link">
+                                 <a href="/resources?type=ebooks">eBooks</a><br>
+                              </li>
+                              <li class="nav-link">
+                                 <a href="/resources?type=podcast">Podcasts</a><br>
+                              </li>
+                              <li class="nav-link">
+                                 <a href="/resources?type=webinar">Webinars</a><br>
+                              </li>
+                              <li class="nav-link">
+                                 <a href="/resources?type=whitepapers">White Papers</a><br>
+                              </li>
+                              
+                           </ul>
+                        </div>
+                        <div class="col-12 col-md-3 mb-4 mb-md-0">
+                           <ul class="nav flex-column">
+                              <li class="nav-header nav-link">For Electric Customers</li>
+                              <li class="nav-link"><a href="https://support.electric.ai" target="_blank">Knowledge Base</a></li>
+                              <li class="nav-link"><a href="/electric-insider-council">Electric Insider Council</a></li>
+                              <li class="nav-link"><a href="https://learn.electric.ai/customer-referral/" target="_blank">Refer a Friend</a></li>
+                           </ul>
+                        </div>
+                        <div class="col-12 col-md-6 mb-4 mb-md-0">
+                           <ul class="nav flex-column">
+                              <li class="nav-header nav-link"><a href="/events">Attend an Event</a></li>
+
+                              <ul class="nav flex-column gap-2">
+                                 
+	<a href="Mailto: samantha.baranauskas@electric.ai" target="_blank" class="d-flex flex-row p-3 gap-4 bg-black rounded align-items-center">
+		<div class="col-4 d-flex justify-content-center">
+			<img src="/wp-content/uploads/Live-Logo.webp" class="mx-auto" style="height:35px">		</div>
+		<div class="col">
+			Feb 23 - Sip Sake + Simplify Your IT		</div>
+	</a>
+
+
+	<a href="https://learn.electric.ai/innovation-series-feb-2023/?utm_source=event_page&utm_medium=hosted_event&utm_campaign=2302_WBN_MK_Innovation_Series" target="_blank" class="d-flex flex-row p-3 gap-4 bg-black rounded align-items-center">
+		<div class="col-4 d-flex justify-content-center">
+			<img src="/wp-content/uploads/Innovation-Logo.webp" class="mx-auto" style="height:35px">		</div>
+		<div class="col">
+			Feb 23 - The Innovation Series: February 2023		</div>
+	</a>
+
+
+	<a href="https://learn.electric.ai/leadership-series-february-2023/?utm_source=event_page&utm_medium=hosted_event&utm_campaign=2302_WBN_MK_Leadership_Series" target="_blank" class="d-flex flex-row p-3 gap-4 bg-black rounded align-items-center">
+		<div class="col-4 d-flex justify-content-center">
+			<img src="/wp-content/uploads/Leadership-Logo.webp" class="mx-auto" style="height:35px">		</div>
+		<div class="col">
+			Feb 16 - Incorporating Security into your IT Framework		</div>
+	</a>
+
+                              </ul>
+
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+            </li>
+
+
+            <!-- About Tab -->
+            <li class="nav-item dropdown position-static">
+
+               <a class="nav-link dropdown-toggle" href="/about-electric" id="megaMenuDropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                  About
+               </a>
+
+               <div class="dropdown-menu w-100 mt-0 p-0" aria-labelledby="megaMenuDropdown">
+                  <div class="nav-border"></div>
+
+                  <div class="container-fluid position-absolute">
+                     <div class="col-4"></div>
+                     <div class="col-8"></div>
+                  </div>
+
+                  <div class="container">
+                     <div class="row">
+
+                        <div class="col-12 col-md-4 mb-md-0 py-4">
+                           <ul class="nav flex-column">
+                              <li class="nav-link d-flex flex-column">
+                                 <span class="nav-header mb-1"><a href="/in-the-press">Press Coverage</a></span>
+                                 <span>Keep up with Electric in the press.</span>
+                              </li>
+                              <li class="nav-link d-flex flex-column me-auto">
+                                 <a target="_blank" class="bg-black rounded d-flex flex-column overflow-hidden" href="/blog/electric-adds-former-twitter-and-productplan-executives-to-its-leadership-team">
+                                    <div class="d-flex flex-row align-items-center px-3 py-2 my-auto">
+                                       <div class="d-flex align-items-center">
+                                          <span class="press-badge px-1 me-2 rounded"><strong>Electric</strong></span>
+                                       </div>
+                                       <span class="fs-7">Hires Former Twitter & ProductPlan Executives <i class="bi bi-arrow-right txt-info"></i></span>
+                                    </div>
+                                 </a>
+                              </li>
+                           </ul>
+                        </div>
+
+                        <div class="col-12 col-md-8 d-flex flex-column mb-4 mb-md-0 py-4">
+
+                           <div class="row">
+                              <div class="col-12 col-md-6 mb-4 mb-md-0">
+                                 <ul class="nav">
+                                    <li class="nav-link d-flex flex-column">
+                                       <span class="nav-header mb-1"><a href="/careers">Careers</a></span>
+                                       <span>Electric powers IT. You power Electric.</span>
+                                       <a class="nav-cta mt-3" href="/careers">We're hiring! <i class="bi bi-arrow-right"></i></a>
+                                    </li>
+                                 </ul>
+                              </div>
+
+                              <div class="col-12 col-md-6 mb-4 mb-md-0">
+                                 <ul class="nav">
+                                    <li class="nav-link d-flex flex-column">
+                                       <span class="nav-header mb-1"><a href="/about-electric">Leadership</a></span>
+                                       <span>We're on a mission to revolutionize IT by making it simple, accessible, and cost-effective for businesses everywhere.</span>
+                                    </li>
+                                 </ul>
+                              </div>
+                              <!-- 
+                              <div class="col-12 col-md-4 mb-4 mb-md-0">
+                                 <ul class="nav">
+                                    <li class="nav-link d-flex flex-column">
+                                       <span class="nav-header mb-1"><a href="/product/partner-with-us">Partners</a></span>
+                                       <span>We partner with industry-leading technology providers so your business can experience premier services, real-time support.</span>
+                                    </li>
+                                 </ul>
+                              </div>
+                              -->
+                           </div>
+                        </div>
+
+                        <div class="col-12 mt-auto mb-4">
+                           <div class="col mx-2">
+                              <div class="d-flex flex-column flex-md-row py-2 px-4 justify-content-between align-items-center bg-black rounded">
+                                 <div class="d-flex flex-column w-100">
+                                    <span class="mb-1">Building the workforce we want to see in the world</span>
+                                    <a href="/careers" class="nav-cta">Learn more about work at Electric <i class="bi bi-arrow-right"></i></a>
+                                 </div>
+                                 <div class="ERG-logos d-flex flex-row w-100 mt-4 mt-md-0 justify-content-between align-items-center">
+                                    <img src="/wp-content/uploads/People-ERG-Asian-logo-250.webp" alt="People ERG Asian logo" height="50px" width="auto">
+                                    <img src="/wp-content/uploads/People-ERG-Black-Bolts-logo-250.webp" alt="People ERG Black Bolts logo" height="50px" width="auto">
+                                    <img src="/wp-content/uploads/People-ERG-WIN-logo-250.webp" alt="People ERG Women's Impact Network logo" height="50px" width="auto">
+                                    <img src="/wp-content/uploads/People-ERG-Mind-at-Peace-Logo-250.webp" alt="People ERG Mind at Peace logo" height="50px">
+                                    <img src="/wp-content/uploads/People-ERG-Pride-Logo-250.webp" alt="People ERG Pride logo" height="50px" width="auto">
+                                    <img src="/wp-content/uploads/People-ERG-Mens-logo-250.webp" alt="People ERG Men's logo" height="50px" width="auto">
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+
+                     </div>
+                  </div>
+               </div>
+            </li>
+         </ul>
+
+         <!-- Login, Contact Us, Search -->
+         <ul class="navbar-utilities d-flex flex-column flex-md-row mt-3 mt-md-0 gap-3 gap-lg-4 justify-content-between align-items-start align-items-md-center">
+            <li class="utilities_login">
+               <a href="https://app.electric.ai/" target="_blank">
+                  <img src="/wp-content/themes/electricai/static/Electric-logo-sm.svg" class="me-1" alt="Turbine Login">
+                  <strong>Login</strong>
+               </a>
+            </li>
+            <li class="utilities_cta">
+               <a class="btn-secondary px-3 py-2" href="/contact" id="demoButton" class="btn-secondary">Contact Us</a>
+            </li>
+            <li class="utilities_search d-none d-md-inline-block">
+               <a data-bs-toggle="collapse" href="#collapseSearch" role="button" aria-expanded="false" aria-controls="collapseSearch"><i class="bi bi-search" aria-label="Search" title="Search Electric.ai"></i></a>
+            </li>
+         </ul>
+
+
+      </div>
+   </div>
+</nav>
+
+<div class="search-wrap collapse container-fluid bg-black overflow-hidden" id="collapseSearch">
+   <div class="nav-search container py-5">
+
+      <form role="search" method="get" id="search-form" action="https://www.electric.ai/">
+         <label for="s" style="display:none;">Search</label>
+         <input type="search" placeholder="Search for..." aria-label="search" name="s" id="search-input" class="px-3" value="">
+         <button type="submit" id="search-submit" class="px-4">Search</button>
+         <button data-bs-toggle="collapse" href="#collapseSearch" type="button" class="btn-close btn-close-white" aria-label="Close" aria-expanded="true" aria-controls="collapseSearch"></button>
+      </form>
+   
+   </div>
+</div>
+<main role="main" class="resources-template">
+	<section class="hero bg-black">
+		<div class="container py-5 position-relative">
+			<div class="row wysiwyg">
+				<h1 class="title mb-4">Resources</h1>
+				<p class="subTitle">Find the IT support resources you need to achieve your goals.</p>
+			</div>
+			<div class="row">
+				<form action="#" id="filter" class="d-flex flex-column flex-md-row gap-3 mt-5">
+			   			<div><span class="me-2"><strong>Filter</strong></span></div>
+						<select name="categoryfilter" class="resource_filter" id="select_cat"><option value="all">Type</option><option value="5">Blog</option><option value="43">Case Studies</option><option value="44">eBooks</option><option value="45">Podcast</option><option value="46">Webinar</option><option value="47">White Papers</option></select><select name="rolefilter" class="resource_filter" id="select_role"><option value="all">Role</option><option value="63">CEO</option><option value="64">Finance</option><option value="65">HR</option><option value="66">IT</option><option value="92">Operations</option><option value="67">Security</option><option value="79">Startup</option></select><select name="topicfilter" class="resource_filter" id="select_topic"><option value="all">Topic</option><option value="68">Cybersecurity</option><option value="69">Electric News</option><option value="70">Engineering</option><option value="88">Finance</option><option value="85">IT</option><option value="89">Mobile Device Management</option><option value="71">Onboarding &amp; Offboarding</option><option value="72">Proactive IT Support</option><option value="73">Product Development</option><option value="75">Remote Support</option><option value="76">Tech Trends</option><option value="74">Troubleshooting</option></select>						<input type="hidden" name="action" value="myfilter"> <!-- Hidden field for AJAX -->
+					</form>
+			</div>
+			<div class="glow"></div>
+		</div>
+   	</section>
+
+   	<section class="resourcesList py-5">
+		<div class="container">
+			<div class="d-flex row row-cols-1 row-cols-md-2 row-cols-lg-3 gy-4" id="resourcesList">
+				<!-- Results get inserted here via AJAX -->
+			</div>
+			<div class="d-flex justify-content-center my-4">
+				<button class="ajax_loadmore btn-secondary p-3">Load More <i class="bi bi-chevron-down"></i></button>
+			</div>
+		</div>
+   	</section>
+
+</main><!-- #main -->
+
+
+<footer id="footer" class="pt-5 pb-4">
+   <div class="container">
+      <div class="row">
+         <div class="col-lg-3 mb-3 mb-lg-0">
+            <img class="mb-3" src="/wp-content/themes/electricai/static/Electric-logo.svg" alt="Electric Logo">
+            <ul id="footer-menu" class="nav flex-column">
+               <li class="nav-item"><a href="https://app.electric.ai/" target="_blank">Customer Login</a></li>
+               <li class="nav-item"><a href="/about-electric">Company</a></li>
+               <li class="nav-item"><a href="/about-electric#leadership">Leadership</a></li>
+               <li class="nav-item"><a href="/careers">Careers</a></li>
+               <li class="nav-item"><a href="/in-the-press">Press coverage</a></li>
+               <li class="nav-item"><a href="/pricing">Pricing</a></li>
+               <!-- <li class="nav-item"><a href="/product/partner-with-us">Partner with us</a></li> -->
+               <li class="nav-item"><a href="/it-support-near-you">IT Support near you</a></li>
+            </ul>
+         </div>
+         <div class="col-lg-6 pe-5">
+            <p class="mb-0 txt-white"><strong>What is Electric?</strong></p>
+            <p class="fw-light">
+            Electric empowers SMBs with user-friendly tools and guidance to streamline their IT management and secure their business. Providing a single platform to manage people, applications, and devices, Electric offers companies a 50% reduction in IT spend and a standardized approach to IT that removes the guesswork. IT powers business and Electric powers the IT of over 900 companies and their 50,000+&nbsp;employees.
+            </p>
+            <ul id="social-nav" class="nav mb-3 mb-lg-0">
+               <li class="nav-item"><a href="https://www.facebook.com/ElectricAI" target="_blank"><i class="bi bi-facebook" aria-label="Facebook Page"></i></a></li>
+               <li class="nav-item"><a href="https://twitter.com/electric_ai" target="_blank"><i class="bi bi-twitter" aria-label="Twitter"></i></a></li>
+               <li class="nav-item"><a href="https://www.instagram.com/electric_ai/" target="_blank"><i class="bi bi-instagram" aria-label="Instagram"></i></a></li>
+               <li class="nav-item"><a href="https://www.linkedin.com/company/electric-ai/" target="_blank"><i class="bi bi-linkedin" aria-label="LinkedIn Page"></i></a></li>
+            </ul>
+         </div>
+         <div class="col-lg-3">
+            <p class="mb-0 txt-white"><strong>Electric:</strong></p>
+            <p>915 Broadway, Suite 802<br>
+               New York, NY 10010<br>
+               <a href="mailto:hello@electric.ai">hello@electric.ai</a><br>
+               <a href="tel:6463500620">(646) 350-0620 (Sales)</a>
+            </p>
+            <a class="btn-primary" href="/contact">Contact Electric</a>
+         </div>
+      </div>
+      <div id="sub-footer" class="d-flex flex-wrap mt-4 pt-3">
+         <div class="d-flex flex-row flex-auto gap-2 mb-3 mb-lg-0">
+            <div class="logo">
+               <img src="/wp-content/themes/electricai/static/SOC-Logo.webp" alt="AICPA SOC Logo" loading="lazy">
+            </div>
+            <div class="p-2 rounded bg-dark logo">
+               <img src="/wp-content/themes/electricai/static/apple.webp" alt="Apple Consultants Network Logo" loading="lazy">
+            </div>
+            <div class="p-2 rounded bg-dark logo">
+               <img src="/wp-content/themes/electricai/static/Microsoft-Partner-Logo.webp" alt="Microsoft Partner Logo" loading="lazy">
+            </div>
+         </div>
+         <div class="d-flex">
+            <ul id="copyright-menu" class="nav">
+               <li class="nav-item">2023 Electric AI</li>
+               <li class="nav-item"><a href="/terms-of-use">Terms of Use</a></li>
+               <li class="nav-item"><a href="/privacy-policy">Privacy Policy</a></li>
+            </ul>
+         </div>
+      </div>
+   </div>
+
+</footer>
+
+<script type='text/javascript' src='https://www.electric.ai/wp-content/themes/electricai/js/popper.min.js' id='popper-js-js'></script>
+<script type='text/javascript' src='https://www.electric.ai/wp-content/themes/electricai/js/bootstrap.min.js' id='bootstrap-js-js'></script>
+<script type='text/javascript' src='https://www.electric.ai/wp-content/themes/electricai/js/events.js' id='events-js-js'></script>
+
+</body>
+</html>
